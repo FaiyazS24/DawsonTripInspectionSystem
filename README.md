@@ -1,7 +1,3 @@
-
-# TripInspectionSystem
-=======
-
 # Trip Inspection and Geofence Alert System
 
 ## Overview
